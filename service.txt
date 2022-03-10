@@ -1,4 +1,0 @@
-
-
-create tomcat service using service.bat in windows 
-create tomcat service using service.sh in Linux
